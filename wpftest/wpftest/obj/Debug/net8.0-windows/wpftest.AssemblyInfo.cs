@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wpftest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a3eb9515c2b473c3d9c91e736901579884381f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375cad2cf192dee56ca92a729580b73545f557e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("wpftest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wpftest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,6 +23,7 @@ namespace wpftest
             /*this.DataContext = new User() { Name = "John Doe", Age = 30 };*/
         }
 
+
         /*private void myButton_Click(object sender, RoutedEventArgs e)
         {
             myTextBlock.Text = myTextBox.Text;
